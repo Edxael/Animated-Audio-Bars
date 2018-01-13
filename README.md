@@ -3,6 +3,7 @@
 Audio analyzer bar graphics that move with the frequency of the sound.
 
 This is one Youtube Video Tutorial located: https://www.youtube.com/watch?v=IBHpSkGZtNM
+http://www.developphp.com/video/JavaScript/Analyser-Bars-Animation-HTML-Audio-API-Tutorial
 
 
 -----------------------------------------------------------------------------------------
