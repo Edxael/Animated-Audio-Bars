@@ -17,6 +17,8 @@ in my case I put the following in the terminal while in the directory that host 
   // Type in terminal to start server.
 Edxael: http-server /home/edmundo/Desktop/00-pr/04-Audio-Bars
 
+
+
 and load the following information:
 Edxael: http-server /home/edmundo/Desktop/00-pr/04-Audio-Bars    <--- This is my input
 Starting up http-server, serving /home/edmundo/Desktop/00-pr/04-Audio-Bars
